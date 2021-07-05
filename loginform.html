@@ -1,0 +1,24 @@
+
+  <!doctype html> 
+  <html> 
+    <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    </head>
+<body>
+  <script>
+    function search(id, pw){
+      window.open("http://127.0.0.1:8080/craw/" + user_id.value + "/" + pw.value);
+    }
+
+    </script>
+  
+  <form method = "GET">
+    <h3>Door 과제 가져오기</h3></br>
+    Door아이디&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id = 'user_id' name = 'user_id'></br>
+    Door비밀번호&nbsp;&nbsp;<input type="password" id = 'pw' name = 'pw'> </br></br>
+    <input type="button" value = " 조회 " onclick = "search(user_id, pw)">
+    <input type="button" value = "뒤로가기" onclick = "location.href='index.html'">
+    <p>※과제를 가져오는 데 수초 시간이 소요됩니다.</p>
+  </form>
+      </body>
+      </html>
