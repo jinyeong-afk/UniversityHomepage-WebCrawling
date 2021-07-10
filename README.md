@@ -26,4 +26,4 @@
  ![image](https://user-images.githubusercontent.com/77527453/124449370-5dabd880-ddbe-11eb-964b-1188d77f9ac1.png)
 
  #### ngrok을 이용한 서버 구축 화면
- ![image](https://user-images.githubusercontent.com/77527453/124449444-70261200-ddbe-11eb-8afb-f108d12a4a19.png)
+ ![image](https://user-images.githubusercontent.com/77527453/125147977-0f099000-e16a-11eb-9d35-030bae882840.png)
